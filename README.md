@@ -1,4 +1,4 @@
-# flutter_primeros_pasos_curso2023_s4
+# App de la secion 4 del curos de flutter 2023 de fernado herrera
 
 A new Flutter project.
 
